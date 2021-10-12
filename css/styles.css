@@ -1,26 +1,26 @@
 head {
-  background-color: greenyellow;
+  background-color: lightgray;
 }
 
 body {
-  background-color: firebrick;
+  background-color: rgb(99, 168, 222);
 }
 
 h1 {
-  color: orange;
+  color: rgb(255, 0, 85);
 }
 
 h2 {
-  color: purple;
+  color: rgb(82, 0, 82);
   font-weight: 500;
 }
 
 p {
-  color: teal;
+  color: rgb(188, 221, 0);
   font-style: oblique;
   font-size: 50px;
 }
 
 li {
-  color:deeppink;
+  color:rgb(172, 10, 96);
 }
