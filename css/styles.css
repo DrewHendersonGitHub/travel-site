@@ -1,0 +1,26 @@
+head {
+  background-color: greenyellow;
+}
+
+body {
+  background-color: firebrick;
+}
+
+h1 {
+  color: orange;
+}
+
+h2 {
+  color: purple;
+  font-weight: 500;
+}
+
+p {
+  color: teal;
+  font-style: oblique;
+  font-size: 50px;
+}
+
+li {
+  color:deeppink;
+}
